@@ -1,0 +1,12 @@
+.idea
+*.log
+.DS_Store
+node_modules
+bower_components
+public
+build
+dist
+tmp
+lib
+*.swp
+tags
